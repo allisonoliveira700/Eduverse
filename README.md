@@ -1,6 +1,6 @@
 # HackWeb — Escape Room no Unity 🎮
 
-Projeto desenvolvido para o **HackWeb**, um hackathon da turma TIC29. A ideia era criar algo no tema **MetaVerso**, e a gente decidiu fazer um jogo de escape room em primeira pessoa com temática de hacking e segurança digital. Ficou bem legal!
+Projeto desenvolvido para o **HackWeb**, um hackathon da turma TIC29. A ideia era criar algo no tema **MetaVerso**, e a gente decidiu fazer um jogo de escape room em primeira pessoa com temática de hacking e segurança digital.
 
 > Se quiser ver funcionando antes de ler tudo: [▶️ vídeo de demonstração no YouTube](https://youtu.be/tPwTM0gcZp8?si=DjDIWzS6D2yex8bE)
 
