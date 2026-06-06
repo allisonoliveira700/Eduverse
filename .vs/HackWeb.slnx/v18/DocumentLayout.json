@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dougl\\HackWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\PuzzleChaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PuzzleChaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\dougl\\hackweb\\assets\\scripts\\livrodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\livrodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\dougl\\hackweb\\assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\dougl\\hackweb\\assets\\scripts\\wallhologramfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wallhologramfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\dougl\\hackweb\\assets\\scripts\\terminalsaida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terminalsaida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\dougl\\hackweb\\assets\\scripts\\terminalenigma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terminalenigma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\PuzzleChaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PuzzleChaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WallHologramFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\WallHologramFeedback.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WallHologramFeedback.cs",
+              "ToolTip": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\WallHologramFeedback.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WallHologramFeedback.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T22:55:33.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ToolTip": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T22:55:08.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TerminalEnigma.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\TerminalEnigma.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TerminalEnigma.cs",
+              "ToolTip": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\TerminalEnigma.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TerminalEnigma.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:25:03.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TerminalSaida.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\TerminalSaida.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TerminalSaida.cs",
+              "ToolTip": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\TerminalSaida.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TerminalSaida.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAcwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:24:19.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\LivroDAO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LivroDAO.cs",
+              "ToolTip": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\LivroDAO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LivroDAO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T22:54:36.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PuzzleChaves.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\PuzzleChaves.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PuzzleChaves.cs",
+              "ToolTip": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\PuzzleChaves.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PuzzleChaves.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:06:42.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PuzzleChaves.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\PuzzleChaves.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PuzzleChaves.cs",
+              "ToolTip": "C:\\Users\\dougl\\HackWeb\\Assets\\Scripts\\PuzzleChaves.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PuzzleChaves.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:18:52.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
